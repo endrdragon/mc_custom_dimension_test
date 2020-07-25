@@ -1,0 +1,17 @@
+{
+    "config": {
+      "top_material": {
+        "Properties": {
+          "snowy": "false"
+        },
+        "Name": "minecraft:white_concrete"
+      },
+      "under_material": {
+        "Name": "minecraft:white_concrete"
+      },
+      "underwater_material": {
+        "Name": "minecraft:white_concrete"
+      }
+    },
+    "name": "minecraft:default"
+  }
